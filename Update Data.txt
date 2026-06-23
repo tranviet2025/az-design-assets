@@ -1,2 +1,2 @@
 Az Design 1.0.0
-url=https://github.com/<Ten_User_Github>/az-design-assets/releases/download/v1.0.0/Az%20Design%201.0.0.zip
+url=https://github.com/tranviet2025/az-design-assets/releases/download/v1.0.0/Az.Design.1.0.0.zip
