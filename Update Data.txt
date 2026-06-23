@@ -1,16 +1,2 @@
 Az Design 1.0.0
-file=Az Design 1.0.0.exe
-
-Giải pháp toàn diện dành cho Studio và Designer Album.
-Tự động hóa thiết kế, truy cập kho tài nguyên đa dạng
-và hoàn thiện Album chỉ trong vài phút thay vì nhiều giờ làm việc thủ công.
-
-1. Auto Design
-- Tiết kiệm đến 90% thời gian thiết kế Album.
-2. 800+ Templates & Resources
-- Kho tài nguyên đa dạng, cá nhân hóa không giới hạn.
-3. All-in-One Workspace
-- Tất cả công việc thiết kế Album trên một phần mềm duy nhất.
-
-Save 90% Time • Create More
-© 2026 AZ Design. All Rights Reserved.
+url=https://github.com/<Ten_User_Github>/az-design-assets/releases/download/v1.0.0/Az%20Design%201.0.0.zip
